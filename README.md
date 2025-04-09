@@ -12,9 +12,9 @@ This repository serves as a personal knowledge base and experimentation space fo
 
 ## 🛠 Technologies Covered (so far)
 
-- JavaScript, Python, Go, and more  
+- JavaScript, Python, and more  
 - Frameworks like Express, Flask, FastAPI, etc.  
-- Tools and platforms like Docker, PostgreSQL, Redis, etc.
+- Tools and platforms like Airbyte, Docker, PostgreSQL, Redis, etc.
 
 > New technologies and updates will be added over time as I continue learning and experimenting.
 
